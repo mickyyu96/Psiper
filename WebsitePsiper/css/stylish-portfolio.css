@@ -252,3 +252,8 @@ footer {
 .img-center {
     margin: 0 auto;
 }
+
+.img-team {
+    height: 200px;
+    width: 200px;
+}
