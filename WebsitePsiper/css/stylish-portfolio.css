@@ -248,3 +248,7 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+.img-center {
+    margin: 0 auto;
+}
